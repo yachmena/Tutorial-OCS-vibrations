@@ -1,0 +1,6 @@
+numpy
+scipy
+jax
+import_ipynb
+seaborn
+matplotlib
