@@ -4,3 +4,5 @@ To install missing packages, run
 ```
 python setup.py
 ```
+
+Start from [outline.ipynb](outline.ipynb)
